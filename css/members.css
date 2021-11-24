@@ -1,0 +1,98 @@
+/*factores del body*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0px;
+}
+
+/*navegador y header*/
+.li012{
+    display: inline;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nli012{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    text-align: center;
+    padding: auto;
+    background-color: rgb(212, 2, 2);
+    font-size: 30px;
+}
+
+#coint2{
+    text-align: center;
+
+}
+
+#h1i2{
+    width: 15%;
+    height: 15%;
+
+}
+
+.clearfix{
+    clear: both;
+}
+
+/*forter y sus propiedades*/
+#footer2{
+    background-color: rgba(0, 0, 0, 0.548);
+    color: white;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px auto;
+    position: static;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+
+}
+
+.footp2{
+    background-color: rgba(0, 0, 0, 0.548);
+    color: white;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px auto;
+    position: static;
+    padding-bottom: 0%;
+}
+
+/*img*/
+
+.img-cont{
+    width: 15%;
+    height: 15%;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+/*miembros*/
+.priblock{
+    display: block;
+    padding-top: 30px;
+}
+
+#cont-mem{
+    text-align: center;
+}
+
+.aprib{
+    text-decoration: none;
+    color: black;
+}
+
+/*etiqueta p*/
+p{
+    text-align: center;
+}
+
