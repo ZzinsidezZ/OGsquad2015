@@ -5,6 +5,7 @@ body{
     margin: 0px;
 }
 
+
 /*navegador y header*/
 .li012{
     display: inline;
@@ -84,6 +85,11 @@ ul{
 
 #cont-mem{
     text-align: center;
+    width: 70%;
+    height: 90%;
+    padding: 1%;
+    float: right;
+
 }
 
 .aprib{
@@ -96,3 +102,23 @@ p{
     text-align: center;
 }
 
+/*asadie*/
+.asa2c{
+    width: 15%;
+    height: 15%;
+    padding-left: 15%;
+    padding-top: 100%;
+    padding-bottom: 100%;
+    margin-bottom: 100%;
+    position: sticky;
+}
+
+#asa2{
+    width: 28%;
+    height: 3200px;
+    background-color: rgb(212, 2, 2);
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    display: flex;
+}
